@@ -1,6 +1,4 @@
 
-give me a description for loan approval Prediction System Web App Deployment for the readme.md GitHub profile
-
 # Loan Approval Prediction System Web App
 
 A *Loan Approval Prediction System Web App* is a machine learning-powered application designed to automate and streamline the process of assessing loan applications. This project helps banks and financial institutions quickly predict the likelihood of a loan being approved based on applicant data, improving decision-making and efficiency.
